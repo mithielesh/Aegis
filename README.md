@@ -1,7 +1,7 @@
 # AEGIS
 ##  Overview
 
-AEGIS is an innovative Unity-based space game that demonstrates advanced artificial intelligence through reinforcement learning. The project features autonomous spacecraft navigation using ONNX models derived from custom-trained RL algorithms, showcasing real-time space weather data integration, dynamic pathfinding, and intelligent decision-making systems.
+AEGIS is the heart of the Optimal Dynamic Interplanetary Navigator, the algorithm that powers it.
 
 ### Training Pipeline
 
