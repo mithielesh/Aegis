@@ -34,8 +34,6 @@ This section showcases the visual representations and architecture diagrams of o
 ---
 
 ### Model Architecture Diagrams
-![Forecasting Model Architecture (LSTM-Transformer)](images/15.jpg)  
-*The predictive model architecture combining LSTM and Transformer layers for risk forecasting.*
 
 ![Overall System Architecture and Training Process](images/16.jpg)  
 *High-level ODIN workflow showing multi-stage RL training and system components.*
